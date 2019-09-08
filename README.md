@@ -1,4 +1,4 @@
-# Here's how:
+# Here's How
 ## The Rundown
 [Cliff Notes Version](https://rogerdudler.github.io/git-guide/)
 
