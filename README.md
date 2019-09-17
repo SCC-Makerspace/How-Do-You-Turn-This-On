@@ -1,5 +1,5 @@
 # Here's How
-## Git
+## Interacting with git repositories
 ### The Rundown
 [Cliff Notes Version](https://rogerdudler.github.io/git-guide/)
 
